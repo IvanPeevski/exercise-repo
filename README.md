@@ -1,2 +1,2 @@
 # exercise-repo
-Fixed now
+We resolved the conflict
